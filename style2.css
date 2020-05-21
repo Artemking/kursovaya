@@ -1,0 +1,27 @@
+.foto
+{
+	text-align: center;
+}
+.foto2
+{
+	text-align: center;
+}
+.foto3
+{
+	text-align: center;
+}
+.p
+{
+	background: pink;
+}
+.infa
+{
+	background-image: linear-gradient(#7da2e6, #ee6bb7) ;
+	text-indent: 10px;
+	text-transform: none;	
+}
+table 
+{	
+	border-collapse: separate; 
+	border-spacing:  10px 15px;
+}
